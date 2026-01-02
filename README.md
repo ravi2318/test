@@ -1,4 +1,4 @@
-# 8 point fft ifft with shift
+# 8 point fft ifft with shift and add mult
 8 point DIT FFT
 <br>
 <img width="880" height="618" alt="image" src="https://github.com/user-attachments/assets/72f49279-be8d-448b-8d78-f808dbfbe101" />
